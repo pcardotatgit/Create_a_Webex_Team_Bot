@@ -35,7 +35,7 @@ Once created **COPY THE WEBEX BOT TOKEN !!**  and copy it's mail as well.
 
 Then go to your webex team client and create a new space.
 
-**Remark : You don't need to do the following if you want to interact with your Bot**
+**Remark : You don't need to do the following if you want to interact with your Bot. If so you can directly go to the Add some logic to your BOT - Create a webhook section**
 
 ![](img/webex_team_bot-4.gif)
 
