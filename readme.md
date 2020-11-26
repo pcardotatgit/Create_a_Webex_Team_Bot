@@ -1,3 +1,12 @@
+# Introduction
+
+In this repo you will find instruction for :
+
+- Creating a Webex Team Bot and make it send messages to a Destination Webex Team Room
+- Adding a Webhook to your Webex Team Bot.
+- Create a Pedagogic PHP Web Server Logic for you bot. Which will help you understand to how everything works
+- Interact with you bot thru it's own Webex Team Room.
+
 # Create a Webex Team Bot
 
 Webex Team Bot atre very good interfaces for application which doesn't have an GUI or an output console. Python scripts or SecureX Workflows for examples.
@@ -169,6 +178,7 @@ And copy into it all the file contained into the **php_bot** git subfolder.
 Once done, open the **init_key_and_bot_id.txt** file and configure into it the variable values.
 
 **DESTINATION_ROOM_ID:  xxxxxxxxxxxxxxxxxxxxxxxx**
+
 **BOT_ACCESS_TOKEN:  xxxxxxxxxxxxxxxxxxxxxxx**
 
 **Let's test the bot !**
