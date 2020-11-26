@@ -62,7 +62,7 @@ Then you can test to send a message from Your Bot the the Webex Team Room.
 ![](img/webex_team_bot-10.gif)
 ![](img/webex_team_bot-11.gif)
 
-**OK YOU ARE GOOD TO GO !!**
+##OK YOU ARE GOOD TO GO !!
 
 From this point you can send messages to this Webex Team room from any script or SecureX HTTP Request activity.
 
