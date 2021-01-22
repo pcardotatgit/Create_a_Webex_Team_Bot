@@ -121,31 +121,30 @@ And use Your **Bot Webex BEARER TOKEN**
 ![](img/webex_team_bot-13.gif)
 ![](img/webex_team_bot-14.gif)
 
-**Remark :** the **update_webhook.py** file can help you yo automate your bot targetUrl.
+**resource = messages**
 
-OK ! your bot is ready ! but it hasn't any logic yet.
+**event = created**
 
-Either you have a public Web Server... or not.
+**targetUrl** is the full URL of your bot.Either you have a public Web Server... or not. If not, and for developpment purpose only, consider **NGROK**. NGROK makes Your developpment BOT located into your laptop available on the INTERNET in less than 5 minutes.
 
-If not, and for developpment purpose only, consider **NGROK**
-
-And make Your developpment BOT located into your laptop available on the INTERNET in less than 5 minutes.
+**Remark :** the **update_webhook.py** file can help you to automate your bot targetUrl.
 
 [Configure the project to run on your local PC]('https://developer.cisco.com/learning/lab/collab-spark-botkit/step/4')
 
 ## The BOT Webex Room
 
-Starting from now, we are going the BOT Webex Room in order to interact with it.
-
-So Let's locate first this room.
+Starting from now, we are going to use the BOT Webex Room Id, in order to interact with it.
 
 Go to your Webex Team and **contact** your bot thanks to it's mail.
 
 ![](img/webex_team_bot-16.gif)
 
-And enter to it's room. You can send messages into the room.  Nothing will happen until we add the bot logic.
+And enter to the Bot's room. 
+As test, You can send some test messages into the room.  
 
-Locate the BOT ROOM ID then. We will use it as the Destination ROOM ID as you can imagine.
+Nothing will happen until we add the bot logic.
+
+Locate the BOT ROOM ID then. We will use it as the Destination ROOM ID in our logic scripts.
 
 You can use the **list_room.py** to help you to get this room id.
 
@@ -163,7 +162,7 @@ PHP is very simple to understand, and very simple to start.
 
 This is a good the reason to start with it.
 
-The **bot_logic.php** file contained into the **pph_bot** subfolder had been design more to be pedagogic than be a production solution.
+The **bot_logic.php** file contained into the **php_bot** subfolder had been design more to be pedagogic than be a production solution.
 
 It comes with a file named **test.php** which will help you to troubleshoot your web server if your bot doesn't work.
 
