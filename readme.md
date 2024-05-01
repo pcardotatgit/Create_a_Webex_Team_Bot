@@ -82,7 +82,7 @@ To be able to do so, you must connect some logic to your BOT and create a Webex 
 
 ## ( End of Section 1 ) You are done if your goal is just to send Alerts to the Room ( from XDR  for example ). You can stop here
 
-## ( Section 2 ) Continue if your goal is to learn more, and learn how to interact with your BOT. ANd trigger actions within XDR
+## ( Section 2 ) Continue if your goal is to learn more, and learn how to interact with your BOT ( And trigger actions within XDR )
 
 # Here Under learn about Webex Bot Logic 
 
