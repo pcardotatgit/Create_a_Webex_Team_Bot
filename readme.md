@@ -339,3 +339,16 @@ TODO : add a check to verify if the messages starts with the **@** character.
 
 Ok it's up to YOU !!
 
+## What's Next ?
+
+The direction you took is to learn about developping your own Webex Apps for phone. 
+
+In the context of Security, and with XDR ( the intelligence behind Webex ), learn about how to create a Webex based Advanced Alerting system.
+
+First, re do what you learned here with pure python ( PHP was nice and easy for learning. But python will be better for production )
+
+[ Webex Chat Bot Python ](https://github.com/pcardotatgit/Webex_Team_Chat_Bot_Python)
+
+And then jump on :
+
+[ Webex for XDR part 1 ](https://github.com/pcardotatgit/webex_for_xdr_part-1_card_examples)
