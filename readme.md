@@ -64,21 +64,27 @@ Then you can test to send a message from Your Bot the the Webex Team Room.
 
 ## OK YOU ARE GOOD TO GO !!
 
-From this point you can send messages to this Webex Team room from any script or SecureX HTTP Request activity.
+At this stage you are able to send messages to the Webex Room you just created, from any script or XDR HTTP Request activity.
 
-For doing this you will have to use to the BOT WEBEX BEARER TOKEN and the Webex Team Room ID.
+For doing this you will have to use to the **BOT WEBEX BEARER TOKEN** and the **Webex Team Room ID**.
 
-This token will never expire which.
+The **BOT WEBEX BEARER TOKEN** token will never expire which allows us to make XDR use it and then make XDR the Intelligence behind the Webex Room.
 
-The Webex Team room becomes an excelent Output interface for your workflows.
+The Webex Room becomes a perfect Output interface for XDR workflows. Perfect for receiving any workflow logs or debugs. Perfect for receiving Alerts from XDR and have Security Opertors seing instantly the alert.
 
-You can use the **send_test_message.py** script to send messages to the Webex Team Room, with the Bot Webex Token.
+In order to test, You can use the **send_test_message.py** script to send messages to the Webex Team Room, with the Bot Webex Token.
 
 Open the **init_key_and_bot_id.txt** and add into it the Webex Room ID and the BOT Webex Token.
 
-Ok, You can use the BOT and the Webex room, as a output interface. But for now you Can't use it as an input interface for your Workflows.
+But Better than that above, you can use the Webex Room to send instructions to the Intelligence behind the Room ( aka XDR ), And then use Webex as a GUI for XDR !
 
-To be able to do so, you must connect some logic to your BOT thanks a Webhook.
+To be able to do so, you must connect some logic to your BOT create a Webex Webhook.
+
+## You are done if your goal is just to send Alert to the Room ( from XDR  for example ). You can stop here
+
+## Continue if your goal is to learn more, and learn how to interact with your BOT. ANd trigger actions within XDR
+
+# Here Under learn about Webex Bot Logic 
 
 ## Add some logic to your BOT - Create a webhook
 
