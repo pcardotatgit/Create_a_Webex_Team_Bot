@@ -70,7 +70,7 @@ For doing this you will have to use to the **BOT WEBEX BEARER TOKEN** and the **
 
 The **BOT WEBEX BEARER TOKEN** token will never expire which allows us to make XDR use it and then make XDR the Intelligence behind the Webex Room.
 
-The Webex Room becomes a perfect Output interface for XDR workflows. Perfect for receiving any workflow logs or debugs. Perfect for receiving Alerts from XDR and have Security Opertors seing instantly the alert.
+The Webex Room becomes a perfect Output interface for XDR workflows. Perfect for receiving any workflow logs or debugs. Perfect for receiving Alerts from XDR and have Security Opertors seing instantly the alerts.
 
 In order to test, You can use the **send_test_message.py** script to send messages to the Webex Team Room, with the Bot Webex Token.
 
@@ -78,11 +78,11 @@ Open the **init_key_and_bot_id.txt** and add into it the Webex Room ID and the B
 
 But Better than that above, you can use the Webex Room to send instructions to the Intelligence behind the Room ( aka XDR ), And then use Webex as a GUI for XDR !
 
-To be able to do so, you must connect some logic to your BOT create a Webex Webhook.
+To be able to do so, you must connect some logic to your BOT and create a Webex Webhook.
 
-## You are done if your goal is just to send Alert to the Room ( from XDR  for example ). You can stop here
+## ( End of Section 1 ) You are done if your goal is just to send Alerts to the Room ( from XDR  for example ). You can stop here
 
-## Continue if your goal is to learn more, and learn how to interact with your BOT. ANd trigger actions within XDR
+## ( Section 2 ) Continue if your goal is to learn more, and learn how to interact with your BOT. ANd trigger actions within XDR
 
 # Here Under learn about Webex Bot Logic 
 
