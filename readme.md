@@ -17,21 +17,20 @@ Let's create this bot.
 
 Let's go to [Cisco Webex for Developper]('https://developer.webex.com/my-apps')
 
- ![](img/webex_team_bot-1.gif)
+ ![](img/webex_team_bot-1.png)
 
 Click on the **start building apps** button and create an new application
 
-![](img/webex_team_bot-2.gif)
-
+![](img/webex_team_bot-2.png)
 
 Fill all requested fields and create your new bot.
 
-![](img/webex_team_bot-3.gif)
-![](img/webex_team_bot-3a.gif)
+![](img/webex_team_bot-3.png)
+![](img/webex_team_bot-3a.png)
 
 Once created **COPY THE WEBEX BOT TOKEN !!**  and copy it's mail as well.
 
-![](img/webex_team_bot-3b.gif)
+![](img/webex_team_bot-4.png)
 
 Then go to your webex team client and create a new space.
 
